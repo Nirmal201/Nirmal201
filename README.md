@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Nirmal201/Nirmal201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Inmproving my JavaScript Skills.
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://nirmalpatel.me/
 - 😄 Pronouns: ... NIR-MAL (Its like NORMAL but replace 'O' with 'I'😂)
 - ⚡ Fun fact: ... I'm kinda music composer😅.
--->
+
+ 
